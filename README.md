@@ -6,7 +6,7 @@ As the rising rates of car crime in the UK, car security is now more important t
 
 This project is based on Flutter, and I try to apply the knowledge of deep learning and IoT to achieve my goal. How to monitor the car condition and environment and analysis the environment data are challenges. Besides, to make it useful and user-friendly, I follow this framework in the mobile app design process.
 
-![image](https://user-images.githubusercontent.com/99146042/154818993-c022ddcc-1129-49f9-a29f-d3cf0312bd7c.png)
+<img width="600" src="https://user-images.githubusercontent.com/99146042/154818993-c022ddcc-1129-49f9-a29f-d3cf0312bd7c.png">
 
 ## 📸 Preview
 I will edit this part in the future.
@@ -25,16 +25,15 @@ I will edit this part in the future.
 - 🎮Actuation Function(control your cars remotely)
 
 ### 👨Persona
-
-<img with="600" src="https://user-images.githubusercontent.com/99146042/154819267-ab6579c8-c82d-4d98-9392-922e90657129.jpg">
+<img width="600" src="https://user-images.githubusercontent.com/99146042/154819267-ab6579c8-c82d-4d98-9392-922e90657129.jpg">
 
 ## 🌊Wireframes and storyboarding of the user experience
 
 ### User flow
-<img with="600" src="https://user-images.githubusercontent.com/99146042/154819301-fc2bb01b-b5ba-44e8-ad3f-4e7704d23f93.png">
+<img width="400" src="https://user-images.githubusercontent.com/99146042/154819301-fc2bb01b-b5ba-44e8-ad3f-4e7704d23f93.png">
 
 ### Wireframe
-<img width="600" src="https://user-images.githubusercontent.com/99146042/154819313-50a6a9f9-7e66-4757-b0f5-7f2319ab848d.jpg">
+<img width="300" src="https://user-images.githubusercontent.com/99146042/154819313-50a6a9f9-7e66-4757-b0f5-7f2319ab848d.jpg">
 
 ## ⏱Time frame
 This project takes about 3 months to finish, and this is my timeline:
