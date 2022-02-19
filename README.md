@@ -43,13 +43,15 @@ This project takes about 3 months to finish, and this is my timeline:
           Define: Persona:
                       Storyboard:
 - Explore(12 Feb - 20 Feb)
-          Ideate: User flow
-          Prototype: Wireframe:
-                            Branding design:
-                            Interaction design:
+          - Ideate: User flow
+          - Prototype: Wireframe,randing design and interaction design:
 - Materialize(21 Feb - 18 Apr)
-         Test: 
-         Implement:
+         - Test: 
+         - Implement:
 - Presentation and submission(19 Mar - 27 Apr)
-        Video showcasing the application
-        Landing page
+        - Video showcasing the applicattion
+        - Landing page
+## 💡In the future
+
+- Connected to the city transport system
+- Apply appearance-based recognition algorithms to enhanced anti-theft function.
