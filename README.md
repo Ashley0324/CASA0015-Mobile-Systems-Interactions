@@ -2,7 +2,7 @@
 
 ## 👋 Overview of idea for mobiles
 
-As the rising rates of car crime in the UK, car security is now more important than ever before. This mobile application is built to protect your cars from stealing by monitoring the alerts and take actions as events.🚘
+As the rising rates of car crime in the UK, car security is now more important than ever before. This mobile application is built to **protect your cars from stealing** by monitoring the alerts and take actions as events.🚘
 
 This project is based on Flutter, and I try to apply the knowledge of deep learning and IoT to achieve my goal. How to monitor the car condition and environment and analysis the environment data are challenges. Besides, to make it useful and user-friendly, I follow this framework in the mobile app design process.
 
@@ -38,20 +38,25 @@ I will edit this part in the future.
 ## ⏱Time frame
 This project takes about 3 months to finish, and this is my timeline:
 
-- Understand(18th Jan - 11 Feb)
+- **Understand(18th Jan - 11 Feb)**
           Empathise: idea
           Define: Persona:
                       Storyboard:
-- Explore(12 Feb - 20 Feb)
+- **Explore(12 Feb - 20 Feb)**
           - Ideate: User flow
           - Prototype: Wireframe,randing design and interaction design:
-- Materialize(21 Feb - 18 Apr)
+- **Materialize(21 Feb - 18 Apr)**
          - Test: 
          - Implement:
-- Presentation and submission(19 Mar - 27 Apr)
+- **Presentation and submission(19 Mar - 27 Apr)**
         - Video showcasing the applicattion
         - Landing page
 ## 💡In the future
 
 - Connected to the city transport system
+- Add more sensors to get more car status information
 - Apply appearance-based recognition algorithms to enhanced anti-theft function.
+
+## References
+
+
