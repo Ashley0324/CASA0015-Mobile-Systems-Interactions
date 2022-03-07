@@ -30,10 +30,10 @@ I will edit this part in the future.
 ## 🌊Wireframes and storyboarding of the user experience
 
 ### User flow
-<img width="400" src="https://user-images.githubusercontent.com/99146042/154819301-fc2bb01b-b5ba-44e8-ad3f-4e7704d23f93.png">
+<img width="600" src="https://user-images.githubusercontent.com/99146042/154819301-fc2bb01b-b5ba-44e8-ad3f-4e7704d23f93.png">
 
 ### Wireframe
-<img width="300" src="https://user-images.githubusercontent.com/99146042/154819313-50a6a9f9-7e66-4757-b0f5-7f2319ab848d.jpg">
+<img width="600" src="https://user-images.githubusercontent.com/99146042/154819313-50a6a9f9-7e66-4757-b0f5-7f2319ab848d.jpg">
 
 ## ⏱Time frame
 This project takes about 3 months to finish, and this is my timeline:
