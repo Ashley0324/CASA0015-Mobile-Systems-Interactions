@@ -2,7 +2,7 @@
 
 ## 👋 Overview of idea for mobiles
 
-As the rising rates of car crime in the UK, car security is now more important than ever before. This mobile application is built to **protect your cars from stealing** by monitoring the alerts and take actions as events.🚘
+Almost 48,400 cars in 2021 were recorded by police as stolen(Rob 2022). As the rising rates of car crime in the UK, car security is now more important than ever before. This mobile application is built to **protect your cars from stealing** by monitoring the alerts and take actions as events.🚘
 
 This project is based on Flutter, and I try to apply the knowledge of deep learning and IoT to achieve my goal. How to monitor the car condition and environment and analysis the environment data are challenges. Besides, to make it useful and user-friendly, I follow this framework in the mobile app design process.
 
@@ -58,5 +58,4 @@ This project takes about 3 months to finish, and this is my timeline:
 - Apply appearance-based recognition algorithms to enhanced anti-theft function.
 
 ## References
-
-
+https://www.thisismoney.co.uk/money/cars/article-10490351/Britains-nicked-motors-2021-revealed-car-thefts-rise-3.html
