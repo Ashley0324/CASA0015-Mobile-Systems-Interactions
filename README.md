@@ -35,6 +35,10 @@ I will edit this part in the future.
 ### Wireframe
 <img width="600" src="https://user-images.githubusercontent.com/99146042/154819313-50a6a9f9-7e66-4757-b0f5-7f2319ab848d.jpg">
 
+### Prototype
+<img width="612" alt="Screenshot 2022-03-20 at 21 16 21" src="https://user-images.githubusercontent.com/99146042/159186289-fb36ab5e-b3ae-4ce3-bd39-564c92a188e0.png">
+
+
 ## ⏱Time frame
 This project takes about 3 months to finish, and this is my timeline:
 
