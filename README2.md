@@ -1,10 +1,17 @@
 ## Flutter: Cars' Status Application
-This is my first Flutter project. Mcar can help users get car information through Mobile phone. The advantage of this project is that it allows users to manage multiple cars.
-
-
+The M-Car app puts owners in direct communication with their vehicles and energy products anytime, anywhere. 
 
 ### Iphone Screenshots
 <img width="575" alt="Screenshot 2022-05-12 at 01 15 57" src="https://user-images.githubusercontent.com/99146042/167968621-6af669b9-d48c-4aa7-a072-646ec8a2336f.png">
+
+### Functions
+
+With this app, you can:
+
+- Locating vehicles with directions or track its movement
+- Monitoring vehicles status(door, window, light)
+- Checking the weather condition
+- Recieving safe alarm
 
 ### Fit to all device screens
 
