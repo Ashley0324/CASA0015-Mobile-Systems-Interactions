@@ -1,5 +1,5 @@
 ## Flutter: Cars' Status Application
-The M-Car app puts owners in direct communication with their vehicles and energy products anytime, anywhere. 
+The M-Car app puts owners in direct communication with their vehicles and energy products anytime, anywhere. The advantage of this project is that it allows users to manage multiple cars from different brands.
 
 ### Iphone Screenshots
 <img width="575" alt="Screenshot 2022-05-12 at 01 15 57" src="https://user-images.githubusercontent.com/99146042/167968621-6af669b9-d48c-4aa7-a072-646ec8a2336f.png">
