@@ -9,8 +9,9 @@ This project is based on Flutter, and I try to apply the knowledge of deep learn
 
 
 ## 📸 Preview
-I will edit this part in the future.
 
+
+<img width="575" alt="Screenshot 2022-05-12 at 01 15 57" src="https://user-images.githubusercontent.com/99146042/167971297-de5bee43-3144-47f1-beeb-420e26502850.png">
 
 
 ## 🔎 Procesws
