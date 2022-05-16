@@ -35,6 +35,8 @@ To fit all device screens, most widgets are proportional by taking the page size
 - A little knowledge of Dart and Flutter
 - An account of MQTT
 
+### ❤️ Build instructions
+
 ### 📗 Bibliography
 - raywenderlich.com. 2022. Firebase Realtime Database Tutorial for Flutter. [online] Available at: <https://www.raywenderlich.com/24346128-firebase-realtime-database-tutorial-for-flutter> [Accessed 16 April 2022].
 - Dart packages. 2022. mqtt_client | Dart Package. [online] Available at: <https://pub.dev/packages/mqtt_client> [Accessed 16 April 2022].
@@ -42,4 +44,5 @@ To fit all device screens, most widgets are proportional by taking the page size
 - Dart packages. 2022. mqtt_client | Dart Package. [online] Available at: <https://pub.dev/packages/mqtt_client> [Accessed 16 April 2022].
 - Dart packages. 2022. http_api | Dart Package. [online] Available at: <https://pub.dev/packages/http_api> [Accessed 16 May 2022].
 - Mercedes. [online] Available at: <https://developer.mercedes-benz.com/products/vehicle_status/specifications/vehicle_status_api> [Accessed 16 May 2022].
+
 
