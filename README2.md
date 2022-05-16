@@ -29,6 +29,8 @@ To fit all device screens, most widgets are proportional by taking the page size
 - Weather: MQTT
 - Vehicle Status: [API](https://developer.mercedes-benz.com/products/vehicle_status/specifications/vehicle_status_api)
 
+
+
 ### 💡 Requirements
 - Any Operating System(ie. MacOs, Linux, Windows)
 - Any IDE with Flutter installed(es. Android Studio)
