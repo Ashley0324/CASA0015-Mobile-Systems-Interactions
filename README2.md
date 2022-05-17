@@ -45,11 +45,6 @@ To fit all device screens, most widgets are proportional by taking the page size
 1. Download this project from this [github link](https://github.com/Ashley0324/CASA0015-Mobile-Systems-Interactions)
 2. Replace the MQTT client and password
 3. In your AndroidManifest.xml file, add the Internet permission.
-'''
-<!-- Required to fetch data from the internet. -->
-<uses-permission android:name="android.permission.INTERNET" />
-
-'''
 5. Run App On any Simulator & Run App On your own Device
 
 ### 📗 Bibliography
