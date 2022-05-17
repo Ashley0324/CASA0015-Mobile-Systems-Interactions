@@ -44,7 +44,13 @@ To fit all device screens, most widgets are proportional by taking the page size
 ### ❤️ Build instructions
 1. Download this project from this [github link](https://github.com/Ashley0324/CASA0015-Mobile-Systems-Interactions)
 2. Replace the MQTT client and password
-4. Run App On any Simulator & Run App On your own Device
+3. In your AndroidManifest.xml file, add the Internet permission.
+'''
+<!-- Required to fetch data from the internet. -->
+<uses-permission android:name="android.permission.INTERNET" />
+
+'''
+5. Run App On any Simulator & Run App On your own Device
 
 ### 📗 Bibliography
 - raywenderlich.com. 2022. Firebase Realtime Database Tutorial for Flutter. [online] Available at: <https://www.raywenderlich.com/24346128-firebase-realtime-database-tutorial-for-flutter> [Accessed 16 April 2022].
